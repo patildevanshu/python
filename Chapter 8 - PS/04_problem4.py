@@ -1,3 +1,6 @@
+# 4. Write a recursive function to calculate the sum of first n natural numbers.
+
+
 '''
 sum(1) = 1
 sum(2) = 1 + 2

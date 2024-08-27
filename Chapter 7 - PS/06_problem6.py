@@ -1,3 +1,5 @@
+# 6. Write a program to calculate the factorial of a given number using for loo
+
 # 5! = 1 X 2 X 3 X 4 X 5
 
 n = int(input("Enter the number: "))

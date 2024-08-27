@@ -1,3 +1,4 @@
+#  am an enthusiastic coder driven by an unyielding passion for programming. With a strong dedication to mastering new technologies and solving complex problems.
 a1 = int(input("Enter number 1: "))
 a2 = int(input("Enter number 2: "))
 a3 = int(input("Enter number 3: "))

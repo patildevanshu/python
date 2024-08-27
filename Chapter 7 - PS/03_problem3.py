@@ -1,3 +1,5 @@
+# 3. Attempt problem 1 using while loop.
+
 n = int(input("Enter a number: "))
 
 i = 1
