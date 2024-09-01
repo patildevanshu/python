@@ -3,6 +3,7 @@ import random
 1 for snake
 -1 for water 
 0 for gun
+addition is done
 '''
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choice: ")
